@@ -1,0 +1,23 @@
+2-f
+
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+no se puede ver el archivo porque cuando salto al master/main muestra
+unicamente los archivos guardados/subidos que estan en el master, y como 
+esta en otra rama , no lo muestra. 
+
+---------
+
+En la línea principal agregue un nuevo archivo que se llame Respuestas.txt y haga
+el commit correspondiente
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+se puede ver de forma grafica la secuencia y el contenido de los archivos
+agregados a mi repo local y qué elementos estan en cada rama
+
+---------
+
+En el Branch master se va a combinar (merge) ambos repositorios. Para esto,
+utilice el comando git merge Opcion_2 -m “merge opcion 2”
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
+se puede observar como la rama creada se une con la rama principal 
