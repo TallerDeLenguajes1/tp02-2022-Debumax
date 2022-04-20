@@ -3,7 +3,8 @@
 ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
 no se puede ver el archivo porque cuando salto al master/main muestra
 unicamente los archivos guardados/subidos que estan en el master, y como 
-esta en otra rama , no lo muestra. 
+esta en otra rama , no lo muestra(tener en cuenta que hay que agregar y comitear estos archivos
+antes de pasarse al master). 
 
 ---------
 
